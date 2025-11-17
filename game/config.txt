@@ -5,3 +5,5 @@ Title_bgm:Main Theme Whispers of the Forgotten.wav;
 Textbox_theme:imss;
 Description:I LOV U HFUT;
 Package_name:BinT: Overtune;
+Default_Language:zh_CN;
+Game_Logo:Sakura_path.png;
