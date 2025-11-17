@@ -1,0 +1,22 @@
+;谢幕
+setTextbox:hide;
+setTextbox:on;
+bgm:Shiny Daily The Perfect Equation.wav;
+changeBg:Sakura_path.png;
+金铃子:你好，这是一个刚刚开始的故事，我是本篇作者;
+changeFigure:BinT cloth2 3to4.png;
+miniAvatar:Bint cloth2 1to1 v2.png;
+金铃子:这个项目的目的是，找到一个可爱的冰糖，从立项到这里大概花了半个月的时间;
+;
+故事的整体大纲已经写完了，从刚才的序章到第二章的文本也都已经完成了，整体进度可以说是欣欣向荣;
+miniAvatar:BinT-1to1 norm cloth.png;
+changeFigure:Bint cloth2 1to1 v3.png;
+冰糖的立绘也已经正式绘制了两个版本，有了校服和常服的差分，可喜可贺，可喜可贺;
+但是要往下推进的画，需要的立绘和CG就不只是序章的一两张，工程量十分的大起来了;
+因此先发布此次序章版本，大家可以在网站上游玩，比较粗糙还请多多包涵!;
+changeFigure:BinT cloth2 3to4.png;
+我喜欢画可爱的女孩子，冰糖头上两个大大的糖球？也很符合我的爱好，虽然是怎么固定的有待考量;
+最后，本作品为个人作品，使用了WebGal作为开发引擎，所使用的IP、形象、角色与现实世界无关;
+感谢理解，祝各位生活愉快！;
+intro:金铃子工作室|为您呈现|（虽然实际上是一个人） -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+end;

@@ -148,16 +148,14 @@ changeBg:night path.png -next;
 :排练场，正在安静地等待着它的演员。
 changeBg:moon.jpg -next;
 :我抬起头，看着那片被雾气晕开的、虚无的月色。
-:“我以为那只是反光。”
-:“只是疲劳过度，在水面上看到的一场……过于逼真的幻觉。”
+我:我以为那只是反光。;
+我:只是疲劳过度，在水面上看到的一场……过于逼真的幻觉。;
 :直到很久以后。
 :直到我再次见到那双眼睛，在比月光更明亮的地方。
 :直到我终于明白，“共鸣”不是一种选择，而是一种注定的发生。
 :我才明白——
+bgm:Echoes of the Forgotten.mp3;
 :那不是幻觉。
-bgm:Shiny Daily The Perfect Equation.wav;
-intro:那是她第一次，看见我;
+intro:那是她第一次，看见我 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
 ; 序章 完
-end;
-callScene:选择场景文件;
-setTextbox:hide;
+changeScene:intro.txt;
