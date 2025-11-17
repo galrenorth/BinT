@@ -1,0 +1,7 @@
+Game_name:冰糖;
+Game_key:10555d84abce4d6;
+Title_img:封面.png;
+Title_bgm:Main Theme Whispers of the Forgotten.wav;
+Textbox_theme:imss;
+Description:I LOV U HFUT;
+Package_name:BinT: Overtune;
